@@ -18,21 +18,23 @@ I started my journey as a frontend developer, creating responsive and visually a
 - **Frontend:**
   - HTML
   - CSS 
-  - JavaScript 
+  - JavaScript
+  - TypeScript (learning)
 
 - **UI Libraries/Frameworks:**
   - ReactJS
-  - Material-UI
   - Tailwind CSS
+  - Radix UI
+  - Bootstrap
 
-- **Backend (Learning):**
+- **Backend:**
   - Node.js
   - Express.js
   - MongoDB
+  - Zod
 
 - **Tools & Others:**
   - Git
-  - RESTful APIs
   - Responsive Web Design
 
 
