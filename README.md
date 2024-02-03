@@ -24,7 +24,6 @@ I started my journey as a frontend developer, creating responsive and visually a
 - **UI Libraries/Frameworks:**
   - ReactJS
   - Tailwind CSS
-  - Radix UI
   - Bootstrap
 
 - **Backend:**
@@ -39,6 +38,8 @@ I started my journey as a frontend developer, creating responsive and visually a
 
 
 ## Current Projects
+### upay
+### wefoodies
 
 
 
